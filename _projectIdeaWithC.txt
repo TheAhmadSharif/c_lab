@@ -1,0 +1,7 @@
+https://www.quora.com/What-are-some-small-projects-I-can-write-in-C
+
+- tic tac game
+- Prime Number
+- More simpler, write down a simple program to arrange all the files in the folder alphabetically.
+- Well, this one can make a C viruss, but write a program to change the extention of all the files to a given path - from .xyz to .abc --> any to any desired.
+- Try to create a software where the input is 1234 and the result is one thousand two hundred thirty four

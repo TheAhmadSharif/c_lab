@@ -1,0 +1,21 @@
+C is a general purpose procedural language. Dennis Ritchi is the father of this language.
+It birth place was Bell Lab. Initially it was built for unix opera
+
+
+
+
+
+
+
+\n for new line;
+\t for new tab;
+
+%d for digits or intiger number.
+
+
+' '      space 
+'\t'     horizontal tab 
+'\n'     newline
+'\v'     vertical tab 
+'\f'     feed 
+'\r'     carriage return    
