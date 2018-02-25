@@ -1,9 +1,8 @@
 #include <stdio.h>
 int main () {
 	int x, y, z;
-	printf("Please type a interger number and then press enter ");
-	scanf("%d", &x);
-	y = x + 20.3;
-	printf("%d\n", y);
+	x = 10%6;
+	y = 6/10;
+	printf("%d : %d\n", x,y); 
 	return 0;
 }

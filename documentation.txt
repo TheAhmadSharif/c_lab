@@ -1,8 +1,21 @@
-C is a general purpose procedural language. Dennis Ritchi is the father of this language.
-It birth place was Bell Lab. Initially it was built for unix opera
+C is a general purpose procedural language. Dennis M. Ritchi is the father of this language.
+It birth place was Bell Lab. Initially it was built for unix operaing system.
 
+# String
+This is a another type of data structure in c language. There are four ways to declare 
+a string object in c. String is a type of array data. As it holds multiple character in a object. That's why String is also called array. 
+------------------------------------------------------------------
+char *variableName = "AhmadSharif"
+char variableName[] = {"A", "B", "C"}; 
+char variableName[] = "AhmadSharif"; 
+------------------------------------------------------------------
+char size is 1 byte. And it ranges between 0 to 255 or -127 to 128.
+- It does not requrie to include <string.h> file in top to print just a string variable.
+. It is requried to include <string.h> in top of the file when we have to use any 
+built in function like strlen. There are some string based file are given below which I have used while learning.
 
-
+- strlen(stringVariable)
+- sizeof stringVariable;
 
 
 
