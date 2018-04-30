@@ -5,3 +5,34 @@ https://www.quora.com/What-are-some-small-projects-I-can-write-in-C
 - More simpler, write down a simple program to arrange all the files in the folder alphabetically.
 - Well, this one can make a C viruss, but write a program to change the extention of all the files to a given path - from .xyz to .abc --> any to any desired.
 - Try to create a software where the input is 1234 and the result is one thousand two hundred thirty four
+
+
+------------------------------------------------------------------------------------------------
+Programming 
+------------------------------------------------------------------------------------------------
+Study “Introduction to Algorithms” by Cormen, Leiserson, Rivest and Stein, famously called CLRS. Start from the first chapter, which is about sorting, then learn basic data structures, from linked lists to red-black trees. Optionally, you can study “Augmenting data structures”. You might skip topics like Fibonacci heaps for now. Then move on to the section on Graph theoretic algorithms and study DFS, BFS, Prim and Kruskal’s MST algorithms, shortest path algorithms like those of Dijkstra, Bellman-Ford, Floyd-Warshall. Try implementing each of them in your favorite programming language. Solve some simple exercises.
+
+First you need to know discrete mathematics well. Study the proof for each algorithm so that when you need to tweak it, you know what works and what doesn’t.
+
+Other than that, I suggest you start with “competitive programming”. This one not only helps you to learn various data structures and algorithms in a fun way, but also helps you to crack algorithmic questions in tech interviews (as a side effect). If you decide to go far, you even end up learning many advanced data structures and algorithms which are not taught in an introductory class.
+
+For competitive programming you can start by signing up at Hackerrank, Codechef or SPOJ. I suggest the first one, because editorials are good, problems are tagged properly according to the concepts required and difficulty.
+
+Other than that you can check out some of the resources available online
+
+
+Learning new Algorithms through MOOC's.
+
+
+
+
+
+
+
+
+
+
+
+
+Must know Algorithm
+https://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-problems
