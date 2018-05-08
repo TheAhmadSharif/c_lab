@@ -20,6 +20,12 @@ built in function like strlen. There are some string based file are given below 
 
 
 
+%d for integer
+%f for double
+
+%0.2
+
+
 \n for new line;
 \t for new tab;
 

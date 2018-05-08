@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc hello.c -o 1
-./1
+gcc pyramid.c -o pyramid
+./pyramid
