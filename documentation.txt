@@ -23,7 +23,7 @@ built in function like strlen. There are some string based file are given below 
 %d for integer
 %f for double
 %li for long Integer
-%0.2
+%0.2lf for 2 digit float number.
 
 
 https://en.wikipedia.org/wiki/C_data_types
@@ -41,3 +41,13 @@ https://en.wikipedia.org/wiki/C_data_types
 '\v'     vertical tab 
 '\f'     feed 
 '\r'     carriage return    
+
+
+
+
+
+
+
+
+Natuarl numbers are used for counting objects. All non-negative integers are called Natural number. A number which is not
+natural number is called composite number.
