@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc pyramid.c -o pyramid
-./pyramid
+gcc funwithc.c -o funwithc
+./funwithc
