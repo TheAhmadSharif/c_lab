@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc selectionSort.c -o selectionSort
-./selectionSort
+gcc lab.c -o lab
+./lab

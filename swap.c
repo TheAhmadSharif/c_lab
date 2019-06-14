@@ -1,17 +1,14 @@
 #include <stdio.h>
 int main () {
+	int a, b, temp;
+	a = 1;
+	b = 2;
+	temp = a = 1;
+	a = b;
+	b = temp;
 	
-	int temp, n1, n2;
-		n1 = 4;
-		n2 = 6;
-		
-		temp = n1;
-		
-		n1 = n2;
-		n2 = temp;
-
-		printf("n1 = %d; n2 = %d;\n", n1,n2);	
-		
+	printf("a: = %d\nb: = %d\n", a, b);	
+	
 	
 	return 0;
 }
